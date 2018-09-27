@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WatchX</string>
+    <string name="view_friends">View Friends</string>
+    <string name="send_alert">ALERT!</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="add_friend">Add</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="permission_not_granted">Permission not granted</string>
+</resources>
